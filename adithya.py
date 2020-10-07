@@ -120,8 +120,8 @@ logo1 = """
                                                 
 \033[1;97m------------------ＷＩＳＨＶＡ-----------------
 """
-CorrectUsername = "wishva"
-CorrectPassword = "wishva"
+CorrectUsername = "BLACK"
+CorrectPassword = "HACKER"
 
 loop = 'true'
 while (loop == 'true'):
